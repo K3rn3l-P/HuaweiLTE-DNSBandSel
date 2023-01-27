@@ -1,5 +1,3 @@
-# -HuaweiLTEBandSelector
-
 Huawei Mobile WiFi LTE Band Selector
 
 Enable LTE band selection within your browser. 
