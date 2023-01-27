@@ -42,7 +42,7 @@ javascript:ftb();function currentBand(){1!=suspend&&($("#dhcp_mask").show(),$("#
 ## Setting Subnet and DNS Selection
 ![Alt text](/img1.3.PNG)
 
-# How-to Part 2
+# How-to Part 2 (OLD)
 1. First go on to your page. (Ex. 192.168.8.1)
 2. Log-in to your device.
 3. Run these javascript.
@@ -62,4 +62,5 @@ javascript:ltebandselection();function currentBand(){$.ajax({type:"GET",async:tr
 
 ## Thanks to 
 https://github.com/0xAA/Huawei_Tool
+
 https://lteitaly.it/
