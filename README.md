@@ -14,7 +14,7 @@ Some routers fail to maintain the settings, this can depend a lot on the Logarit
 So I always recommend to buy, examples of Routers that allow BTS settings: 
 Mikrotik Chateau 12, 
 Huawei B2368 
-And many others..
+and many others..
 
 ## Supported clients
 Every Javascript supported modern browsers.
