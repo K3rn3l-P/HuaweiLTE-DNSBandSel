@@ -45,6 +45,10 @@ This is because the javascript code forces the LTE router to set the first band 
 
 This is a tip that works for me, it doesn't mean that it can work for everyone.. LTE router manufacturers always advise to keep the bands on AUTO.. if you are not sure.. at your own risk!
 
+Assuming that your Main is 7 and the aggregate is 3, if we wanted to set it the same way it would be 7+3 and send..
+But what if we wanted 3 to be Main?
+Simply just add "m" Ex: m3+7.
+
 ## Setting Subnet and DNS Selection
 ![Alt text](/img1.3.PNG)
 
