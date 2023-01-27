@@ -1,12 +1,13 @@
-Huawei Mobile WiFi LTE Band Selector
+Huawei 4/5G WiFi LTE Band Selector
 
 Enable LTE band selection within your browser. 
 
 # Working Environment
 ## Supported devices
 Tested on these Huawei devices.
-1. E5778
-2. E5885 (Global-one egg in Korea)
+1. B535-333
+2. E5778
+3. E5885 (Global-one egg in Korea)
 
 ## Supported clients
 Every Javascript supported modern browsers.
@@ -14,12 +15,15 @@ Every Javascript supported modern browsers.
 ### Tested on these clients.
 Mac OS Safari, Chrome
 iOS Safari
+Firefox windows 10 (Web Console)
 
 # How-to
-1. First go on to your MobileWifi page. (Ex. 192.168.8.1)
+1. First go on to your page. (Ex. 192.168.8.1)
 2. Log-in to your device.
-3. Run these javascript. 
+3. Run these javascript.
 If you add this script to "Bookmark", you can use this tool in iOS Safari.
+##Or
+Copy and paste this script on console [F12] (firefox)
 
 ## Show current LTE band & signal
 ![Alt text](/img2.png)
