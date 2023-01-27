@@ -49,7 +49,7 @@ Assuming that your Main is 7 and the aggregate is 3, if we wanted to set it the 
 But what if we wanted 3 to be Main?
 Simply just add "m" Ex: m3+7.
 
-For the more technical:There are 3 commands usable on the console (once the script is run)
+For the more technical:  There are 3 commands usable on the console (once the script is run)
 netmode, signal and status. Have fun!
 
 ## Setting Subnet and DNS Selection
