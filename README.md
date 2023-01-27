@@ -39,7 +39,7 @@ javascript:ftb();function currentBand(){1!=suspend&&($("#dhcp_mask").show(),$("#
 
 ## Selecting ENB ID: "code" will open the link of your cell location on the map. I use the LTEItaly website, but if you prefer, just replace "https://lteitaly.it/internal/map.php#bts=" in the javascript and set what you want! Remember to create an account on the site!
 
-##Advise:
+## Advise:
 If the first setting is on the single main band (Ex:3) and the second setting is with the other aggregates (Ex: 3+7+20) there is a greater possibility of always having the main band set to 3..
 This is because the javascript code forces the LTE router to set the first band (the best band for us) and the second setting confirms the main + the other aggregates..
 
