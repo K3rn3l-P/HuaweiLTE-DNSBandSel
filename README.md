@@ -9,6 +9,13 @@ Tested on these Huawei devices.
 2. E5778
 3. E5885 (Global-one egg in Korea)
 
+## Advise:
+Some routers fail to maintain the settings, this can depend a lot on the Logarithmic antenna or other type.. from the router itself, from the location, etc etc ..
+So I always recommend to buy, examples of Routers that allow BTS settings
+Mikrotik Chateau 12
+Huawei B2368
+And many others..
+
 ## Supported clients
 Every Javascript supported modern browsers.
 
