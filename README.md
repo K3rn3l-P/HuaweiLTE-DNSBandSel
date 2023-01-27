@@ -5,7 +5,7 @@ Enable LTE band selection within your browser. 2 parts..
 # Working Environment
 ## Supported devices
 Tested on these Huawei devices.
-1. B535-333
+1. B535
 2. E5778
 3. E5885 (Global-one egg in Korea)
 
