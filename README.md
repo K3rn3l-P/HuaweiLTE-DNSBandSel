@@ -33,7 +33,7 @@ javascript:ftb();function currentBand(){1!=suspend&&($("#dhcp_mask").show(),$("#
 ## Follow the screen!
 ![Alt text](/img1.1.PNG)
 
-## Selecting "SET" (top left) you can change the desired bands.
+## Selecting "SET" (top left) you can change the desired bands. (es: 1+3+7)
 
 ![Alt text](/img1.2.PNG)
 
