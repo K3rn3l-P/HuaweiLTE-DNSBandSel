@@ -82,5 +82,5 @@ javascript:ltebandselection();function currentBand(){$.ajax({type:"GET",async:tr
 
 ## Thanks to 
 https://github.com/0xAA/Huawei_Tool
-
+https://github.com/ECOFRI/HuaweiLTEBandSelector
 https://lteitaly.it/
